@@ -1,6 +1,6 @@
 ---
 - name: Upload Simple File
-  hosts: all
+  hosts: aula
   become: yes
   gather_facts: yes
   vars:
